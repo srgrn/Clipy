@@ -1,4 +1,4 @@
-platform :osx, '10.10'
+platform :osx, '12.3'
 use_frameworks!
 
 target 'Clipy' do
@@ -18,7 +18,6 @@ target 'Clipy' do
   pod 'LetsMove'
   pod 'SwiftHEXColors'
   # Utility
-  pod 'BartyCrouch'
   pod 'SwiftLint'
   pod 'SwiftGen'
 
